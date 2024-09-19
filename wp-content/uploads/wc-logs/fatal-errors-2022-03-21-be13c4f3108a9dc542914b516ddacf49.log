@@ -1,0 +1,80 @@
+2022-03-21T04:12:30+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 77824 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T05:56:18+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T06:46:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 139264 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2162
+
+2022-03-21T07:52:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T08:05:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 139264 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2162
+
+2022-03-21T08:05:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 77824 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T08:23:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 139264 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2162
+
+2022-03-21T08:24:25+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 77824 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T08:24:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T08:24:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T09:36:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 372736 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/post-template.php on line 1965
+
+2022-03-21T10:12:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 139264 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2162
+
+2022-03-21T10:12:43+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 139264 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2162
+
+2022-03-21T12:10:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T12:10:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:15:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:24:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:24:55+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 90112 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:28:18+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:40:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 90112 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:41:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:42:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 90112 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:42:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:48:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:48:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 135168 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2129
+
+2022-03-21T13:48:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:48:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:54:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T13:54:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:00:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:00:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:00:59+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:02:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:23:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:25:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 90112 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:28:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:51:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:51:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 86016 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:55:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+
+2022-03-21T14:55:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 98304 bytes) in /var/www/virtual/deprotect.io/htdocs/wp-includes/wp-db.php on line 2128
+

@@ -1,0 +1,12 @@
+<wpml-config>
+	<admin-texts>
+		<key name="edge_theme_options">
+			<key name="edge_search_text" />
+			<key name="edge_tag_text" />
+			<key name="edge-img-upload-footer-image" />
+			<key name="edge_tag_text" />
+			<key name="edge_secondary_text" />
+			<key name="edge_secondary_url" />
+		</key>
+	</admin-texts>
+</wpml-config>
